@@ -13,3 +13,6 @@ TODO
 ## Do you have any questions of your own?
 No
 TODO
+
+## Youtube Video Link
+https://www.youtube.com/watch?v=Rl5FBRGNS4o
